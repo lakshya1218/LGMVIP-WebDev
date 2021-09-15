@@ -1,1 +1,3 @@
 # LGMVIP-WebDev
+This is a landing page for a dating website made for dogs called TinDog....
+main files are index.html and index.css.
